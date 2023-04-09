@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"Maria Ryerson\n","id":"8df88179134b11b6","x":-250,"y":-40,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Father of Mary Ann Campau","id":"353e618907e07acb","x":285,"y":-880,"width":250,"height":76,"color":"#2b2b2b"},
+		{"type":"text","text":"Louis Campau\n","id":"c85e4307b94620a7","x":737,"y":-877,"width":250,"height":73,"color":"#2b2b2b"},
+		{"type":"text","text":"Louis Campau Sr.","id":"1263d9943e9834c9","x":535,"y":-1120,"width":250,"height":100},
+		{"type":"text","text":"Mary Ann Campau","id":"e237dbd67c68cfd3","x":260,"y":-397,"width":300,"height":80,"color":"#de2de1"},
+		{"type":"text","text":"[[George Ryerson]] (Page 1 of Charles Richard Crane's Biography)","id":"e4c402803850a017","x":-258,"y":-804,"width":258,"height":166,"color":"#313ce3"},
+		{"type":"text","text":"George Ryerson\n(Governer Of Baja)\n\n","id":"7b97c5febdf81679","x":-840,"y":-418,"width":280,"height":101},
+		{"type":"text","text":"Had multiple Children with a mexican woman (ryerson geneaology)","id":"7e84aece5d0d3e47","x":-875,"y":-200,"width":350,"height":114},
+		{"type":"text","text":"Timothy Botchford Crane\n","id":"72b0ac741bba4df5","x":-910,"y":-40,"width":310,"height":60,"color":"2"},
+		{"type":"text","text":"Martin L Ryerson","id":"18b1b0aca9be621e","x":-258,"y":-400,"width":258,"height":65,"color":"#313ce3"},
+		{"type":"text","text":"Martin Ryerson (Uncle of Richard T Crane page 1 of CRCB)","id":"b1a7d3e268c8f4d8","x":260,"y":-86,"width":274,"height":153,"color":"4"},
+		{"type":"text","text":"Richard T Crane\n(May 15, 1832 – January 8, 1912)","id":"0fca6cd9e8b55fb7","x":-525,"y":200,"width":285,"height":60,"color":"6"},
+		{"type":"text","text":"[[Richard Teller Crane]]\n","id":"e4edba210740289e","x":-508,"y":600,"width":250,"height":100,"color":"6"}
+	],
+	"edges":[
+		{"id":"a99e994401895c28","fromNode":"e4edba210740289e","fromSide":"top","toNode":"0fca6cd9e8b55fb7","toSide":"bottom","toEnd":"none"},
+		{"id":"395023bb06c66e7f","fromNode":"18b1b0aca9be621e","fromSide":"right","toNode":"e237dbd67c68cfd3","toSide":"left","toEnd":"none","label":"Spouse Of"},
+		{"id":"365c0c2e506f210e","fromNode":"e237dbd67c68cfd3","fromSide":"top","toNode":"353e618907e07acb","toSide":"bottom"},
+		{"id":"c825f4c5105b3318","fromNode":"353e618907e07acb","fromSide":"right","toNode":"c85e4307b94620a7","toSide":"left"},
+		{"id":"46fa90c7d675db34","fromNode":"353e618907e07acb","fromSide":"top","toNode":"1263d9943e9834c9","toSide":"bottom","toEnd":"none"},
+		{"id":"aa6437d86d62c406","fromNode":"c85e4307b94620a7","fromSide":"top","toNode":"1263d9943e9834c9","toSide":"bottom","toEnd":"none"},
+		{"id":"90b1d1c07ce0fe1f","fromNode":"0fca6cd9e8b55fb7","fromSide":"top","toNode":"72b0ac741bba4df5","toSide":"bottom"},
+		{"id":"0b7c91832f43502f","fromNode":"e4c402803850a017","fromSide":"bottom","toNode":"8df88179134b11b6","toSide":"top"},
+		{"id":"4b43cb6d985d1ee6","fromNode":"7b97c5febdf81679","fromSide":"right","toNode":"18b1b0aca9be621e","toSide":"left","label":"Brother Of"},
+		{"id":"248814844b7ed111","fromNode":"8df88179134b11b6","fromSide":"right","toNode":"b1a7d3e268c8f4d8","toSide":"left","label":"Brother of"},
+		{"id":"2e8c162416c9ddbe","fromNode":"7b97c5febdf81679","fromSide":"bottom","toNode":"7e84aece5d0d3e47","toSide":"top"},
+		{"id":"795249732bf2f9f8","fromNode":"8df88179134b11b6","fromSide":"bottom","toNode":"0fca6cd9e8b55fb7","toSide":"top"}
+	]
+}
