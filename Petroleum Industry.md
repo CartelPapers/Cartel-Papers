@@ -1,0 +1,13 @@
+#industry
+[[Karl Twitchell]]
+[[St John Philby]]
+[[Ibn Saud]]
+[[British Petroleum]]
+[[Dr Mann]]
+[[William Knox D'Arcy]]
+[[Arnold Wilson]]
+[[John D Rockefeller jr.]]
+[[D'Arcy Oil Company]]
+[[D'Arcy concession]]
+[[Krug Henry]]
+[[Bert Miller]]

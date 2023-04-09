@@ -1,0 +1,1 @@
+"Many academic or quasi-academic figures emerged from this unofficial nursery of talent, among them the late Sir [[Reader Bullard]], Laurence Lockhart,( St John Philby Added to Quote) [[St John Philby]], and [[Sir Ronald Storrs]]." [BROWNE, EDWARD GRANVILLE – Encyclopaedia Iranica](https://iranicaonline.org/articles/browne-edward-granville)
